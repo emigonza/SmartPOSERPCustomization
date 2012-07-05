@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entityDetail>
+	<type>product-refund-closed-ticket</type>
+	<detail>
+		<productId>1000047</productId>
+		<productName>Casillero de Diablo</productName>
+		<productAmount>-1</productAmount>
+		<organization>1000002</organization>
+		<productTaxCategoryID>1000001</productTaxCategoryID>
+		<m_dDate>29/10/2011 14:21:00</m_dDate>
+		<unit>1000007</unit>
+		<unit-amount>null</unit-amount>
+		<price>2.0</price>
+		<tax-name>ITBMS</tax-name>
+		<subValue>-2.0</subValue>
+		<m_sId>f4d931c0-4d6c-4b17-a20c-62917beb491f</m_sId>
+		<m_iTicketId>18</m_iTicketId>
+		<machine-hostname>smart-tablet</machine-hostname>
+		<waiter-login>AdminSistema</waiter-login>
+		<value>-2.14</value>
+	</detail>
+</entityDetail>
+
+<?xml version="1.0" ?>
+<entityDetail>
+	<type>STORAGE</type>
+	<detail>
+		<AD_Client_ID>1000000</AD_Client_ID>
+		<AD_Org_ID>1000002</AD_Org_ID>
+		<Created>2011-10-13 13:42:09.0</Created>
+		<CreatedBy>1000000</CreatedBy>
+		<DateLastInventory>./.</DateLastInventory>
+		<IsActive>true</IsActive>
+		<M_AttributeSetInstance_ID>1000035</M_AttributeSetInstance_ID>
+		<M_Locator_ID>1000037</M_Locator_ID>
+		<M_Product_ID>1000031</M_Product_ID>
+		<QtyOnHand>250.00</QtyOnHand>
+		<QtyOrdered>0</QtyOrdered>
+		<QtyReserved>0</QtyReserved>
+		<Updated>2011-10-13 13:42:09.56</Updated>
+		<UpdatedBy>1000000</UpdatedBy>
+		<M_Product_TotalStock>500</M_Product_TotalStock>
+	</detail>
+</entityDetail>
+<?xml version="1.0" encoding="UTF-8"?>
+<entityDetail>
+	<type>ticket</type>
+	<detail>
+		<m_sActiveCash>fd07f130-0746-4ec8-82cf-a49ef96853ef</m_sActiveCash>
+		<articlesCount>4.0</articlesCount>
+		<m_dDate>Sat Aug 20 20:25:20 COT 2011</m_dDate>
+		<m_sId>db09c767-f3be-4b1e-92c9-17b7afacec08</m_sId>
+		<name>6</name>
+		<subTotal>17.59999999552965</subTotal>
+		<tax>1,23</tax>
+		<m_iTicketId>6</m_iTicketId>
+		<tickettype>0</tickettype>
+		<total>18,83</total>
+		<totalPaid>18,83</totalPaid>
+		<transactionID>no ID</transactionID>
+		<customerId>null</customerId>
+		<m_aLine multiply="1" price="3" priceTax="3,21"
+			productAttSetId="null" productAttSetInstDesc="" productAttSetInstId="null"
+			productCategoryID="1000001" productID="1000020" productName="Champiñones Casablanca"
+			productTaxCategoryID="001" subValue="3" tax="0,21" taxRate="0,07"
+			m_iLine="0" value="3,21">
+			<tax applicationOrder="2147483647" id="001" name="ITBMS" order="null"
+				parentID="null" rate="0,07" taxCategoryID="001" taxCustCategoryID="null"
+				validFrom="Mon Jan 01 00:00:00 COT 2001" />
+		</m_aLine>
+		<m_aLine multiply="1" price="-0,3" priceTax="-0,32"
+			productAttSetId="null" productAttSetInstDesc="" productAttSetInstId="null"
+			productCategoryID="null" productID="null"
+			productName="Desc.10% de Champiñones Casablanca"
+			productTaxCategoryID="001" subValue="-0,3" tax="-0,02" taxRate="0,07"
+			m_iLine="1" value="-0,32">
+			<tax applicationOrder="2147483647" id="001" name="ITBMS" order="null"
+				parentID="null" rate="0,07" taxCategoryID="001" taxCustCategoryID="null"
+				validFrom="Mon Jan 01 00:00:00 COT 2001" />
+		</m_aLine>
+		<m_aLine multiply="1" price="6,95" priceTax="7,44"
+			productAttSetId="null" productAttSetInstDesc="" productAttSetInstId="null"
+			productCategoryID="1000001" productID="1000022" productName="Chicharroncitos"
+			productTaxCategoryID="001" subValue="6,95" tax="0,49" taxRate="0,07"
+			m_iLine="2" value="7,44">
+			<tax applicationOrder="2147483647" id="001" name="ITBMS" order="null"
+				parentID="null" rate="0,07" taxCategoryID="001" taxCustCategoryID="null"
+				validFrom="Mon Jan 01 00:00:00 COT 2001" />
+		</m_aLine>
+		<m_aLine multiply="1" price="7,95" priceTax="8,51"
+			productAttSetId="null" productAttSetInstDesc="" productAttSetInstId="null"
+			productCategoryID="1000001" productID="1000019" productName="Patacones a la Morgan"
+			productTaxCategoryID="001" subValue="7,95" tax="0,56" taxRate="0,07"
+			m_iLine="3" value="8,51">
+			<tax applicationOrder="2147483647" id="001" name="ITBMS" order="null"
+				parentID="null" rate="0,07" taxCategoryID="001" taxCustCategoryID="null"
+				validFrom="Mon Jan 01 00:00:00 COT 2001" />
+		</m_aLine>
+	</detail>
+</entityDetail>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<entityDetail>
+	<type>customer</type>
+	<id>a1e0ab06-64dc-4af4-b19d-4d314325d28a</id>
+	<taxID>2345 </taxID>
+	<searchkey>2345 </searchkey>
+	<name>Luis Rozo</name>
+	<notes>
+	</notes>
+	<visible>true </visible>
+	<card>null </card>
+	<maxDebt>0.0 </maxDebt>
+	<curdate>null </curdate>
+	<curdebt>null </curdebt>
+	<firstName>Luis </firstName>
+	<lastName>Rozo </lastName>
+	<email>l@a.com </email>
+	<phone>12345 </phone>
+	<phone2>123 </phone2>
+	<fax>null </fax>
+	<address>asdadsasd </address>
+	<address2>null </address2>
+	<postal>null </postal>
+	<city>Panama </city>
+	<region>Panama </region>
+	<country>Panama </country>
+	<categoryModel>null</categoryModel>
+</entityDetail>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<entityDetail>
+	<type>customer</type>
+	<id>1000014</id>
+	<taxID>4890123 </taxID>
+	<searchkey>1000005 </searchkey>
+	<name>Juan Cortez1</name>
+	<notes>./. </notes>
+	<visible>true </visible>
+	<card>null </card>
+	<maxDebt>0.0 </maxDebt>
+	<curdate>null </curdate>
+	<curdebt>0.0 </curdebt>
+	<firstName>Juan </firstName>
+	<lastName>Cortez </lastName>
+	<email>a1@a.com </email>
+	<phone>313890568 </phone>
+	<phone2>./. </phone2>
+	<fax>null </fax>
+	<address>null </address>
+	<address2>1000012 </address2>
+	<postal>null </postal>
+	<city>null </city>
+	<region>null </region>
+	<country>null </country>
+	<categoryModel>6cd7f618-b100-4dd0-8f66-43e019ff6c06</categoryModel>
+</entityDetail>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<entityDetail>
+	<type>ticket</type>
+	<detail>
+		<m_sActiveCash>33f91e5c-2e24-4c39-838e-24a057099a0a</m_sActiveCash>
+		<articlesCount>4.0</articlesCount>
+		<m_dDate>Sat Aug 20 12:49:21 COT 2011</m_dDate>
+		<m_sId>d282ba87-2d4b-4dcc-8a91-224a9c2a888d</m_sId>
+		<name>79</name>
+		<subTotal>29.05</subTotal>
+		<tax>2.0335</tax>
+		<m_iTicketId>79</m_iTicketId>
+		<tickettype>0</tickettype>
+		<total>31.0835</total>
+		<totalPaid>31.0835</totalPaid>
+		<transactionID>no ID</transactionID>
+		<customerId>null</customerId>
+		<m_aLine multiply="1.0" price="0.1" priceTax="0.10700000000000001"
+			productAttSetId="null" productAttSetInstDesc="" productAttSetInstId="null"
+			productCategoryID="1000019" productID="1000028" productName="Ensalada de la Casa"
+			productTaxCategoryID="001" subValue="0.1" tax="0.007000000000000001"
+			taxRate="0.07" m_iLine="0" value="0.10700000000000001">
+			<tax applicationOrder="2147483647" id="001" name="ITBMS" order="null"
+				parentID="null" rate="0.07" taxCategoryID="001" taxCustCategoryID="null"
+				validFrom="Mon Jan 01 00:00:00 COT 2001" />
+		</m_aLine>
+		<m_aLine multiply="1.0" price="20.0" priceTax="21.400000000000002"
+			productAttSetId="null" productAttSetInstDesc="" productAttSetInstId="null"
+			productCategoryID="1000006" productID="1000024" productName="Parrillada Casablanca"
+			productTaxCategoryID="001" subValue="20.0" tax="1.4000000000000001"
+			taxRate="0.07" m_iLine="1" value="21.400000000000002">
+			<tax applicationOrder="2147483647" id="001" name="ITBMS" order="null"
+				parentID="null" rate="0.07" taxCategoryID="001" taxCustCategoryID="null"
+				validFrom="Mon Jan 01 00:00:00 COT 2001" />
+		</m_aLine>
+		<m_aLine multiply="1.0" price="7.95" priceTax="8.5065"
+			productAttSetId="null" productAttSetInstDesc="" productAttSetInstId="null"
+			productCategoryID="1000002" productID="1000021" productName="Alitas de Pollo"
+			productTaxCategoryID="001" subValue="7.95" tax="0.5565000000000001"
+			taxRate="0.07" m_iLine="2" value="8.5065">
+			<tax applicationOrder="2147483647" id="001" name="ITBMS" order="null"
+				parentID="null" rate="0.07" taxCategoryID="001" taxCustCategoryID="null"
+				validFrom="Mon Jan 01 00:00:00 COT 2001" />
+		</m_aLine>
+		<m_aLine multiply="1.0" price="1.0" priceTax="1.07"
+			productAttSetId="null" productAttSetInstDesc="" productAttSetInstId="null"
+			productCategoryID="1000010" productID="1000026" productName="Jugo de Maracuyá"
+			productTaxCategoryID="001" subValue="1.0" tax="0.07" taxRate="0.07"
+			m_iLine="3" value="1.07">
+			<tax applicationOrder="2147483647" id="001" name="ITBMS" order="null"
+				parentID="null" rate="0.07" taxCategoryID="001" taxCustCategoryID="null"
+				validFrom="Mon Jan 01 00:00:00 COT 2001" />
+		</m_aLine>
+	</detail>
+</entityDetail>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<entityDetail>
+	<type>ticket</type>
+	<detail>
+		<m_sActiveCash>33f91e5c-2e24-4c39-838e-24a057099a0a</m_sActiveCash>
+		<articlesCount>1.0</articlesCount>
+		<m_dDate>Sat Aug 20 12:47:42 COT 2011</m_dDate>
+		<m_sId>662d2cfa-05d8-4f59-86fb-e037c9c445ce</m_sId>
+		<name>78</name>
+		<subTotal>0.5</subTotal>
+		<tax>0.035</tax>
+		<m_iTicketId>78</m_iTicketId>
+		<tickettype>0</tickettype>
+		<total>0.535</total>
+		<totalPaid>0.535</totalPaid>
+		<transactionID>no ID</transactionID>
+		<customerId>null</customerId>
+		<m_aLine multiply="1.0" price="0.5" priceTax="0.535"
+			productAttSetId="null" productAttSetInstDesc="" productAttSetInstId="null"
+			productCategoryID="1000019" productID="1000027" productName="Pure de Papa"
+			productTaxCategoryID="001" subValue="0.5" tax="0.035" taxRate="0.07"
+			m_iLine="0" value="0.535">
+			<tax applicationOrder="2147483647" id="001" name="ITBMS" order="null"
+				parentID="null" rate="0.07" taxCategoryID="001" taxCustCategoryID="null"
+				validFrom="Mon Jan 01 00:00:00 COT 2001" />
+		</m_aLine>
+	</detail>
+</entityDetail>
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<entityDetail>
+	<type>BPARTNER_LOCATION</type>
+	<detail>
+		<AD_Client_ID>1000000</AD_Client_ID>
+		<AD_Org_ID>1000000</AD_Org_ID>
+		<C_BPartner_ID>1000003</C_BPartner_ID>
+		<C_BPartner_Location_ID>1000006</C_BPartner_Location_ID>
+		<C_Location_ID>1000008</C_Location_ID>
+		<Created>2011-08-17 18:13:25.0</Created>
+		<CreatedBy>1000000</CreatedBy>
+		<C_SalesRegion_ID>./.</C_SalesRegion_ID>
+		<Fax>122</Fax>
+		<IsActive>true</IsActive>
+		<IsBillTo>true</IsBillTo>
+		<ISDN>./.</ISDN>
+		<IsPayFrom>true</IsPayFrom>
+		<IsRemitTo>true</IsRemitTo>
+		<IsShipTo>true</IsShipTo>
+		<Name>oficina</Name>
+		<Phone>123</Phone>
+		<Phone2>3133006801</Phone2>
+		<Updated>2011-08-17 18:13:25.0</Updated>
+		<UpdatedBy>1000000</UpdatedBy>
+	</detail>
+</entityDetail>
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<entityDetail>
+	<type>USER</type>
+	<detail>
+		<AD_Client_ID>1000000</AD_Client_ID>
+		<AD_Org_ID>1000000</AD_Org_ID>
+		<AD_OrgTrx_ID>./.</AD_OrgTrx_ID>
+		<AD_User_ID>1000008</AD_User_ID>
+		<Birthday>./.</Birthday>
+		<C_BPartner_ID>1000003</C_BPartner_ID>
+		<C_BPartner_Location_ID>./.</C_BPartner_Location_ID>
+		<C_Greeting_ID>1000000</C_Greeting_ID>
+		<C_Job_ID>./.</C_Job_ID>
+		<Comments>./.</Comments>
+		<ConnectionProfile>./.</ConnectionProfile>
+		<Created>2011-08-17 18:11:46.0</Created>
+		<CreatedBy>1000000</CreatedBy>
+		<Description>./.</Description>
+		<EMail>a@a.com</EMail>
+		<EMailUser>./.</EMailUser>
+		<EMailUserPW>./.</EMailUserPW>
+		<EMailVerify>./.</EMailVerify>
+		<EMailVerifyDate>./.</EMailVerifyDate>
+		<Fax>./.</Fax>
+		<IsActive>true</IsActive>
+		<IsFullBPAccess>true</IsFullBPAccess>
+		<IsInPayroll>false</IsInPayroll>
+		<LastContact>./.</LastContact>
+		<LastResult>./.</LastResult>
+		<LDAPUser>./.</LDAPUser>
+		<Name>cliente1</Name>
+		<NotificationType>E</NotificationType>
+		<Password>a</Password>
+		<Phone>./.</Phone>
+		<Phone2>./.</Phone2>
+		<Processing>false</Processing>
+		<Supervisor_ID>./.</Supervisor_ID>
+		<Title>./.</Title>
+		<Updated>2011-08-17 18:11:46.0</Updated>
+		<UpdatedBy>1000000</UpdatedBy>
+		<UserPIN>./.</UserPIN>
+		<Value>cliente1</Value>
+	</detail>
+</entityDetail>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<entityDetail>
+	<type>LOCATION</type>
+	<detail>
+		<AD_Client_ID>1000000</AD_Client_ID>
+		<Address1>1</Address1>
+		<Address2>2</Address2>
+		<Address3>./.</Address3>
+		<Address4>./.</Address4>
+		<AD_Org_ID>0</AD_Org_ID>
+		<C_City_ID>1000009</C_City_ID>
+		<C_Country_ID>274</C_Country_ID>
+		<City>COLÓN</City>
+		<C_Location_ID>1000008</C_Location_ID>
+		<Created>2011-08-17 18:12:48.0</Created>
+		<CreatedBy>1000000</CreatedBy>
+		<C_Region_ID>1000002</C_Region_ID>
+		<IsActive>true</IsActive>
+		<Postal>./.</Postal>
+		<Postal_Add>./.</Postal_Add>
+		<RegionName>COLON</RegionName>
+		<Updated>2011-08-17 18:12:48.0</Updated>
+		<UpdatedBy>1000000</UpdatedBy>
+	</detail>
+</entityDetail>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<entityDetail>
+	<type>BPARTNER_LOCATION</type>
+	<detail>
+		<AD_Client_ID>1000000</AD_Client_ID>
+		<AD_Org_ID>1000000</AD_Org_ID>
+		<C_BPartner_ID>1000003</C_BPartner_ID>
+		<C_BPartner_Location_ID>1000006</C_BPartner_Location_ID>
+		<C_Location_ID>1000008</C_Location_ID>
+		<Created>2011-08-17 18:13:25.0</Created>
+		<CreatedBy>1000000</CreatedBy>
+		<C_SalesRegion_ID>./.</C_SalesRegion_ID>
+		<Fax>122</Fax>
+		<IsActive>true</IsActive>
+		<IsBillTo>true</IsBillTo>
+		<ISDN>./.</ISDN>
+		<IsPayFrom>true</IsPayFrom>
+		<IsRemitTo>true</IsRemitTo>
+		<IsShipTo>true</IsShipTo>
+		<Name>oficina</Name>
+		<Phone>12</Phone>
+		<Phone2>3133006800</Phone2>
+		<Updated>2011-08-17 18:13:25.0</Updated>
+		<UpdatedBy>1000000</UpdatedBy>
+	</detail>
+</entityDetail>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<entityDetail>
+	<type>LOCATION</type>
+	<detail>
+		<AD_Client_ID>1000000</AD_Client_ID>
+		<Address1>1</Address1>
+		<Address2>2</Address2>
+		<Address3>3</Address3>
+		<Address4></Address4>
+		<AD_Org_ID>0</AD_Org_ID>
+		<C_City_ID>1000049</C_City_ID>
+		<C_Country_ID>274</C_Country_ID>
+		<City>Panama</City>
+		<C_Location_ID>1000006</C_Location_ID>
+		<Created>2011-07-20 14:59:40.0</Created>
+		<CreatedBy>1000000</CreatedBy>
+		<C_Region_ID>1000007</C_Region_ID>
+		<IsActive>true</IsActive>
+		<Postal></Postal>
+		<Postal_Add>./.</Postal_Add>
+		<RegionName>Panama</RegionName>
+		<Updated>2011-07-20 14:59:40.0</Updated>
+		<UpdatedBy>1000000</UpdatedBy>
+	</detail>
+</entityDetail>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<entityDetail>
+	<type>BPARTNER_LOCATION</type>
+	<detail>
+		<AD_Client_ID>1000000</AD_Client_ID>
+		<AD_Org_ID>1000000</AD_Org_ID>
+		<C_BPartner_ID>1000005</C_BPartner_ID>
+		<C_BPartner_Location_ID>1000004</C_BPartner_Location_ID>
+		<C_Location_ID>1000006</C_Location_ID>
+		<Created>2011-07-20 15:00:16.0</Created>
+		<CreatedBy>1000000</CreatedBy>
+		<C_SalesRegion_ID>./.</C_SalesRegion_ID>
+		<Fax>7890</Fax>
+		<IsActive>true</IsActive>
+		<IsBillTo>true</IsBillTo>
+		<ISDN>./.</ISDN>
+		<IsPayFrom>true</IsPayFrom>
+		<IsRemitTo>true</IsRemitTo>
+		<IsShipTo>true</IsShipTo>
+		<Name>Panama</Name>
+		<Phone>1234</Phone>
+		<Phone2>456</Phone2>
+		<Updated>2011-07-25 10:27:47.0</Updated>
+		<UpdatedBy>1000000</UpdatedBy>
+	</detail>
+</entityDetail>
+
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<entityDetail>
+	<type>USER</type>
+	<detail>
+		<AD_Client_ID>1000000</AD_Client_ID>
+		<AD_Org_ID>1000000</AD_Org_ID>
+		<AD_OrgTrx_ID>./.</AD_OrgTrx_ID>
+		<AD_User_ID>1000008</AD_User_ID>
+		<Birthday>./.</Birthday>
+		<C_BPartner_ID>1000005</C_BPartner_ID>
+		<C_BPartner_Location_ID>1000004</C_BPartner_Location_ID>
+		<C_Greeting_ID>1000000</C_Greeting_ID>
+		<C_Job_ID>./.</C_Job_ID>
+		<Comments>./.</Comments>
+		<ConnectionProfile>./.</ConnectionProfile>
+		<Created>2011-07-25 10:28:53.0</Created>
+		<CreatedBy>1000000</CreatedBy>
+		<Description>./.</Description>
+		<EMail>a@a.com</EMail>
+		<EMailUser>./.</EMailUser>
+		<EMailUserPW>./.</EMailUserPW>
+		<EMailVerify>./.</EMailVerify>
+		<EMailVerifyDate>./.</EMailVerifyDate>
+		<Fax>./.</Fax>
+		<IsActive>true</IsActive>
+		<IsFullBPAccess>true</IsFullBPAccess>
+		<IsInPayroll>false</IsInPayroll>
+		<LastContact>./.</LastContact>
+		<LastResult>./.</LastResult>
+		<LDAPUser>./.</LDAPUser>
+		<Name>contacto</Name>
+		<NotificationType>E</NotificationType>
+		<Password>./.</Password>
+		<Phone>./.</Phone>
+		<Phone2>./.</Phone2>
+		<Processing>false</Processing>
+		<Supervisor_ID>./.</Supervisor_ID>
+		<Title>./.</Title>
+		<Updated>2011-07-25 10:28:53.0</Updated>
+		<UpdatedBy>1000000</UpdatedBy>
+		<UserPIN>./.</UserPIN>
+		<Value>contacto</Value>
+	</detail>
+</entityDetail>
